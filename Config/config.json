@@ -1,0 +1,15 @@
+{
+    "moderators": ["1079012077206786089", "1062923360826314783"],
+    "discord": {
+        "bot_token": "MTA4NTQ0OTk0ODY4ODA0NDA3Mg.GUmgPb.33x1zifxn5BEyW7OelliEM2Iw7lO0CMIS3IWZ8"
+    },
+    "mongodb": {
+        "database": "mongodb://uu4u3l4dltg3snxuhl1j:ymNww20Vkp9bSBajQyLq@n1-c2-mongodb-clevercloud-customers.services.clever-cloud.com:27017,n2-c2-mongodb-clevercloud-customers.services.clever-cloud.com:27017/bnri8fck5vzfyrf?replicaSet=rs0"
+    },
+    "clientsettings": {
+        "WARNING": "This can be exploited, make sure you trust the people (if anyone) who are going to be using this backend.",
+        "SaveFortniteSettings": true
+    },
+    "matchmakerIP": "127.0.0.1:800",
+    "gameServerIP": "127.0.0.1:7777"
+}
